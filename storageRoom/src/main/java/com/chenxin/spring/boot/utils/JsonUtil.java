@@ -1,4 +1,4 @@
-package com.xiaour.spring.boot.utils;
+package com.chenxin.spring.boot.utils;
 
 import com.google.gson.*;
 import com.google.gson.reflect.TypeToken;

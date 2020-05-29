@@ -1,6 +1,4 @@
-package com.xiaour.spring.boot.entity;
-
-import java.util.Date;
+package com.chenxin.spring.boot.entity;
 
 public class UserInfo {
     private Integer id;

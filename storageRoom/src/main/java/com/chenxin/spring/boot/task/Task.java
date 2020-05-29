@@ -1,4 +1,4 @@
-package com.xiaour.spring.boot.task;
+package com.chenxin.spring.boot.task;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.scheduling.annotation.EnableScheduling;

@@ -1,6 +1,6 @@
-package com.xiaour.spring.boot.mapper;
+package com.chenxin.spring.boot.mapper;
 
-import com.xiaour.spring.boot.entity.UserInfo;
+import com.chenxin.spring.boot.entity.UserInfo;
 import org.apache.ibatis.annotations.Mapper;
 import org.springframework.stereotype.Component;
 

@@ -1,4 +1,4 @@
-package com.xiaour.spring.boot.exception;
+package com.chenxin.spring.boot.exception;
 
 public class OApiResultException extends OApiException {
 

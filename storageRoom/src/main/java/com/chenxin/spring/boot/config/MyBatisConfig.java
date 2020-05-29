@@ -1,4 +1,4 @@
-package com.xiaour.spring.boot.config;
+package com.chenxin.spring.boot.config;
 
 import com.alibaba.druid.pool.DruidDataSource;
 import org.apache.ibatis.session.SqlSessionFactory;

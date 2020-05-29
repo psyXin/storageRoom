@@ -1,4 +1,4 @@
-package com.xiaour.spring.boot.filter;
+package com.chenxin.spring.boot.filter;
 
 import java.io.IOException;
 
@@ -19,7 +19,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 import com.alibaba.druid.support.http.StatViewServlet;
 
 /**
- * Created by xiaour on 2017/4/19.
+ * Created by chenxin on 2017/4/19.
  */
 @WebServlet(urlPatterns = "/druid/*", 
 initParams={
