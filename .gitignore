@@ -1,0 +1,21 @@
+.gradle
+.settings
+.svn
+.classpath
+.project
+.idea
+.metadata
+.recommenders
+*.iml
+.vscode
+
+/*/bin
+/*/build
+/*/out
+
+.DS_Store
+
+/node_modules
+ package*.json
+ CHANGELOG*.md
+/fw-ui-client
