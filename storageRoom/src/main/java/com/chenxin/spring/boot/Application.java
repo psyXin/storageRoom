@@ -13,8 +13,7 @@ import org.springframework.boot.web.support.SpringBootServletInitializer;
 /**
  * 
  * @ClassName Application
- * @author Zhang.Tao
- * @Date 2017年4月27日 下午5:30:34
+ * @author Chen.xin
  * @version V2.0.0
  */
 
